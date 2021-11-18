@@ -1,4 +1,4 @@
-# Todo app solution
+# Static Food app
 
 ## Table of contents
 
@@ -19,8 +19,8 @@ A static food app
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/PrincessMaggy/maggy-foods.git)
+- Live Site URL: [Add live site URL here](https://princessmaggy.github.io/maggy-foods/)
 
 ### Built with
 
@@ -33,11 +33,10 @@ A static food app
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Resource ](https://youtu.be/bxmDnn7lrnk) - This helped me understand the basics of tailwind css.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [PrincessMaggy](https://princessmaggy.github.io/My-Portfolio/)
+- Frontend Mentor - [@princessmaggy](https://www.frontendmentor.io/profile/princessmaggy)
+- Twitter - [@princessmaggy7](https://www.twitter.com/princessmaggy7)
