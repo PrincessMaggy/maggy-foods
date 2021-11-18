@@ -15,7 +15,7 @@ A static food app
 
 ### Screenshot
 
-![(./screenshot.jpg)]
+![](./screenshot.jpg)
 
 ### Links
 
