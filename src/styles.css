@@ -11,3 +11,21 @@
 .btn{
     @apply rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer tracking-wider;
 }
+footer {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    width: 100%;
+}
+.copyright-bottom {
+    padding: 0px !important;
+}
+footer span.copyright {
+    font-family: "lato";
+    text-transform: none;
+    color: #757575;
+    float: left;
+    margin-top: 20px;
+    font-size: 12px;
+}
