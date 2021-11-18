@@ -15,12 +15,12 @@ A static food app
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![(./screenshot.jpg)]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/PrincessMaggy/maggy-foods.git)
-- Live Site URL: [Add live site URL here](https://princessmaggy.github.io/maggy-foods/)
+- Solution URL: [https://github.com/PrincessMaggy/maggy-foods.git]
+- Live Site URL: [https://princessmaggy.github.io/maggy-foods/]
 
 ### Built with
 
